@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frexco/precache-manifest.ae7313165a4fc935232ef221e1d583c3.js"
+  "/frexco/precache-manifest.ef2266035d21f5ebfd22c99d35624290.js"
 );
 
 self.addEventListener('message', (event) => {
