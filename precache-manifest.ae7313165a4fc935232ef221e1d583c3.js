@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81e2919f6cd693cc0791f97f35047149",
+    "revision": "b473421da04a2d9a1ac8a4990730fe5d",
     "url": "/frexco/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frexco/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "26b520d7a8299f224c00",
+    "revision": "5af11dd00e8b8f873626",
     "url": "/frexco/static/css/main.3cf5e8af.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frexco/static/js/2.b1fd1e91.chunk.js"
   },
   {
-    "revision": "26b520d7a8299f224c00",
-    "url": "/frexco/static/js/main.48f161c1.chunk.js"
+    "revision": "5af11dd00e8b8f873626",
+    "url": "/frexco/static/js/main.d7b6a1d7.chunk.js"
   },
   {
     "revision": "23be56fb075548a6642a",
