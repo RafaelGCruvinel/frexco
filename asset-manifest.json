@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frexco/static/css/main.3cf5e8af.chunk.css",
-    "main.js": "/frexco/static/js/main.c797a9b9.chunk.js",
-    "main.js.map": "/frexco/static/js/main.c797a9b9.chunk.js.map",
+    "main.js": "/frexco/static/js/main.1408a435.chunk.js",
+    "main.js.map": "/frexco/static/js/main.1408a435.chunk.js.map",
     "runtime~main.js": "/frexco/static/js/runtime~main.fba2fe66.js",
     "runtime~main.js.map": "/frexco/static/js/runtime~main.fba2fe66.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/frexco/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.b1fd1e91.chunk.js": "/frexco/static/js/2.b1fd1e91.chunk.js",
     "static/js/2.b1fd1e91.chunk.js.map": "/frexco/static/js/2.b1fd1e91.chunk.js.map",
     "index.html": "/frexco/index.html",
-    "precache-manifest.ef2266035d21f5ebfd22c99d35624290.js": "/frexco/precache-manifest.ef2266035d21f5ebfd22c99d35624290.js",
+    "precache-manifest.3c7781134859b36a6b93bd0c57d0abf0.js": "/frexco/precache-manifest.3c7781134859b36a6b93bd0c57d0abf0.js",
     "service-worker.js": "/frexco/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/frexco/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.3cf5e8af.chunk.css.map": "/frexco/static/css/main.3cf5e8af.chunk.css.map",
